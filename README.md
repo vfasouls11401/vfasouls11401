@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn coding ( Javascript for now.)
 - 🌱 I’m currently learning the basics of coding.
 - 💞️ I’m looking to collaborate on HTML projects.
-- 📫 How to reach me: https://www.linkedin.com/in/vladimir-ferreira-de-almeida-5a2716233/
+- 📫 How to reach me: https://www.linkedin.com/in/vfacodex/
 
 <!---
 vfasouls11401/vfasouls11401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
